@@ -9,7 +9,6 @@ Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Befo
 ### Contributor
 
 We are very happy that you are considering implementing algorithms and data structures for others! This repository is referenced and used by learners from all over the globe. Being one of our contributors, you agree and confirm that:
-
 - You did your work - no plagiarism allowed
   - Any plagiarized work will not be merged.
 - Your work will be distributed under [MIT License](LICENSE.md) once your pull request is merged
